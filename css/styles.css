@@ -9,5 +9,27 @@
 .content-table thead tr{
     background-color: rgb(1, 61, 22);
     color: rgb(185, 245, 223);
+    border-bottom: 2px solid rgb(54, 191, 255);
+}
 
+.content-table tbody tr{
+    border-bottom: 2px solid rgb(54, 191, 255); 
+    background-color: rgb(205, 248, 232);
+}
+
+.content-table tbody tr:nth-of-type(even){
+    background-color: rgb(141, 216, 158);
+    border-bottom: 2px solid rgb(54, 191, 255);
+}
+
+.content-table tbody tr:last-of-type{
+    border-bottom: 2px solid rgb(54, 191, 255);
+}
+
+th, tr, td{
+    border: 1px solid rgb(54, 191, 255);
+    width: 150px;
+    height: 20px;
+    vertical-align: middle;
+    text-align: left;
 }
