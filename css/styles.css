@@ -1,3 +1,13 @@
 .content-table{
     border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 1em;
+    min-width: 450px;
+    box-shadow: 0 0 20px rgba(rgb(6, 95, 37), rgb(6, 95, 37), rgb(6, 95, 37), rgb(6, 95, 37));
+}
+
+.content-table thead tr{
+    background-color: rgb(1, 61, 22);
+    color: rgb(185, 245, 223);
+
 }
