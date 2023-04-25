@@ -3,6 +3,7 @@
     margin: 25px 0;
     font-size: 1em;
     min-width: 450px;
+    border: solid black 5px;
 }
 
 .content-table thead {
@@ -16,5 +17,18 @@
 }
 
 .a {
+    background-color: rgb(141, 216, 158)
+}
+
+.tr {
+    border: solid black 5px;
+}
+
+.ax {
+    border: 2px solid rgb(54, 191, 255); 
+}
+
+.axa {
+    border: 2px solid rgb(54, 191, 255); 
     background-color: rgb(141, 216, 158)
 }

@@ -3,6 +3,7 @@
     margin: 25px 0;
     font-size: 1em;
     min-width: 450px;
+    border: solid black 5px;
     box-shadow: 0 0 20px rgba(rgb(6, 95, 37), rgb(6, 95, 37), rgb(6, 95, 37), rgb(6, 95, 37));
 }
 
